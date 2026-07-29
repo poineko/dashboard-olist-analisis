@@ -1,6 +1,5 @@
 ---
 title: Dashboard Analisis Olist E-Commerce
-emoji: 📊
 colorFrom: blue
 colorTo: green
 sdk: docker
